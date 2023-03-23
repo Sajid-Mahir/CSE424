@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1Ofy8p6gp1BrqY4mRB7UKj30911d_H2GqxJyQ9WgW1Xs/edit?usp=sharing
 
 Project title:
 Text humor detection model using Machine Learning for Social Media posts
