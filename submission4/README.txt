@@ -1,5 +1,5 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/1316798497cdtrgxmvfjbh
 
 Unlisted YouTube video:
 http://youtube....
@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-
+Text humor detection model using Machine Learning for Social Media posts
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
