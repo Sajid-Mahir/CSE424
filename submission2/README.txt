@@ -8,7 +8,7 @@ Paper title:
 Identifying and Benchmarking Natural Out-of-Context Prediction Problems
 
 Link to the paper:
-https://arxiv.org/abs/2110.13223
+https://proceedings.neurips.cc/paper_files/paper/2021/hash/81c2f886f91e18fe16d6f4e865877cb6-Abstract.html
 
 Group Number:
 7
