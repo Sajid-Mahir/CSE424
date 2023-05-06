@@ -5,7 +5,7 @@ Two public links to the Concept Map (anyone on the internet can view without log
 PDF: 
 https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
-https://draw.io/...
+https://drive.google.com/file/d/1EGmqIXiJbATMA5_ATb7pi85MAWwIfMEN/view?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
@@ -15,10 +15,10 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/15.pdf
 
 Group Number:
 7
