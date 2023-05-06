@@ -15,7 +15,7 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
 https://web.stanford.edu/~jurafsky/slp3/15.pdf
