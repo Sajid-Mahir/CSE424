@@ -10,8 +10,6 @@ https://easy....
 Paper title:
 Text humor detection model using Machine Learning for Social Media posts
 
-Paper presentation (anyone can view without login):
-http://slides.google.com/
 
 Paper submission date (to workshop/conference):
 
