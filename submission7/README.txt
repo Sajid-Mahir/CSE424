@@ -5,23 +5,23 @@ Unlisted YouTube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+http://www.unitemeet.org/Author/Author_Summary.aspx?CID=146
 
 Paper title:
 Text humor detection model using Machine Learning for Social Media posts
 
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 13-May-2023
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 7436
 
 
-Conference Name:
+Conference Name: 2023 IEEE 11th International Conference on Computer Science and Network Technology
 
 
 Conference URL:
-http://confsite/...
+http://www.iccsnt.org/ICCSNT2023/ShowArticle.asp?ArticleID=976
 
 Group Number:
 7
